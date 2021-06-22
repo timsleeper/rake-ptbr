@@ -16,15 +16,11 @@ numpy==1.20.3
 packaging==20.9
 pathy==0.5.2
 preshed==3.0.5
-pt-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_lg-3.0.0/pt_core_news_lg-3.0.0-py3-none-any.whl
-pt-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.0.0/pt_core_news_sm-3.0.0-py3-none-any.whl
 pydantic==1.7.4
 pyparsing==2.4.7
 requests==2.25.1
 six==1.16.0
 smart-open==3.0.0
-spacy==3.0.6
-spacy-legacy==3.0.6
 srsly==2.4.1
 starlette==0.14.2
 thinc==8.0.5
